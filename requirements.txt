@@ -1,8 +1,7 @@
-streamlit
+streamlit==1.36.0
 numpy
 pandas
 scikit-learn
 matplotlib
 pillow
 python-dotenv
-google-generative-ai
